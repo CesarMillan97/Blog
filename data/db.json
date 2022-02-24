@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam sit nostrum laborum enim non rem illum quos voluptates, nesciunt autem iure corporis molestiae veritatis, similique quis. Qui doloribus obcaecati alias!",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam sit nostrum laborum enim non rem illum quos voluptates, nesciunt autem iure corporis molestiae veritatis, similique quis. Qui doloribus obcaecati alias!",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Test",
+      "body": "Adding Test",
+      "tags": [
+        "Test",
+        "TestAdd"
+      ],
+      "id": 3
+    },
+    {
+      "title": "asdas",
+      "body": "asdasd",
+      "tags": [
+        "asdasdasd"
+      ],
+      "id": 4
+    },
+    {
+      "title": "asdasd",
+      "body": "asdasdadsd",
+      "tags": [
+        "asdasdasdasdasd"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Test123",
+      "body": "teas",
+      "tags": [
+        "asdasd"
+      ],
+      "id": 6
+    }
+  ]
+}
