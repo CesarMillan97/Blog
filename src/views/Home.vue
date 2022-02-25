@@ -8,7 +8,6 @@
       <div v-else>
         <Spinner/>
       </div>
-
     </div>
 </template>
 
@@ -24,7 +23,6 @@ export default {
     const { posts, error, load } = getPosts()
     
     load()
-    
     return { posts, error }
   }
 }

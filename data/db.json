@@ -52,6 +52,15 @@
         "asdasd"
       ],
       "id": 6
+    },
+    {
+      "title": "Holo",
+      "body": "This is the content of the holo blog",
+      "tags": [
+        "Holo",
+        "random"
+      ],
+      "id": 7
     }
   ]
 }
